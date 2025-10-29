@@ -1,0 +1,5 @@
+print('Привет. Как тебя зовут?')
+f_name = input()
+print('А какая у тебя фамилия?')
+l_name = input()
+print('Рад познакомиться,', f_name, l_name, end='!')
